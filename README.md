@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z46-dev
-- 👀 I’m interested in web and backend development with JS
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in web and backend development with Golang, JS, Rust, Java, and Python
+- 🌱 I’m currently learning C++ and Assembly
 - 💞️ I’m looking to collaborate on W1HLO Robotics
 
 <!---
